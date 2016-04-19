@@ -1,4 +1,4 @@
-# Doc: http://manuel.manuelles.nl/blog/2012/06/22/integrate-travis-ci-into-grunt/
+# Doc: http://manuelvanrijn.nl/blog/2012/06/22/integrate-travis-ci-into-grunt/
 
 language: node_js
 
